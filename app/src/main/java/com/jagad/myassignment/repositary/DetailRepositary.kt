@@ -1,6 +1,5 @@
 package com.jagad.myassignment.repositary
 
-import com.jagad.myassignment.model.request.GetDetailReq
 import com.jagad.myassignment.model.response.GetDetailResponse
 import com.jagad.myassignment.network.SafeApiRequest
 import com.jagad.myassignment.remote.APIEndPointInterface

@@ -3,7 +3,6 @@ package com.jagad.myassignment.utils
 import android.graphics.Paint
 import android.widget.TextView
 import androidx.databinding.BindingAdapter
-import androidx.recyclerview.widget.RecyclerView
 
 /**
  * Created by jagad on 9/18/2021

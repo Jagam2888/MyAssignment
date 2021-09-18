@@ -5,7 +5,6 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.jagad.myassignment.model.request.GetDetailReq
 import com.jagad.myassignment.model.response.GetDetailResponse
 import com.jagad.myassignment.network.Resource
 import com.jagad.myassignment.repositary.DetailRepositary
