@@ -24,7 +24,7 @@ class DetailViewModel @Inject constructor(
     private val repositary: DetailRepositary
 ):ViewModel() {
 
-    var _candidateInfo:MutableLiveData<GetDetailResponse> = MutableLiveData()
+    private val _candidateInfo:MutableLiveData<GetDetailResponse> = MutableLiveData()
     val candidateInfo:LiveData<GetDetailResponse>
     get() = _candidateInfo
 
