@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Name : </string>
+    <string name="email">Email : </string>
+    <string name="phone">Phone : </string>
+    <string name="dob">Date of Birth : </string>
+
+    <string name="father_name">Father\'s Name</string>
+    <string name="address">Address</string>
+    <string name="highest_education">Highest Education</string>
+    <string name="certificate_1">Certificate 1</string>
+    <string name="certificate_2">Certificate 2</string>
+    <string name="certificate_3">Certificate 3</string>
+    <string name="start_over">Start Over</string>
+    <string name="save_continue">Save and Continue</string>
+</resources>
